@@ -43,7 +43,7 @@ This project explores the predictive capabilities of Self-Attention Embeddings (
    ```
    3.2
    ```bash
-   cp Makefile ./gemma-scope-2b-pt-mlp cd gemma-scope-2b-pt-mlp && make git_download
+   cp Makefile ./gemma-scope-2b-pt-mlp && cd gemma-scope-2b-pt-mlp && make git_download
    ```
 4. **Run experiments**: Use `Gemma_Scope.ipynb` to reproduce the experiments.
 5. **Enjoy**)
