@@ -4,6 +4,8 @@
 ## **Overview**
 This project explores the predictive capabilities of Self-Attention Embeddings (SAE) derived from the Gemma2-2B transformer model. The study focuses on whether SAE can be used to predict or forecast future tokens and how these embeddings vary across different layers of the model. Additionally, the project investigates the interpretability of latent representations within SAE to understand how they map to specific tokens.
 
+[google_doc](https://docs.google.com/document/d/1rPW4Oya92TiiVqN7dyxrg-ZPkF9Okh9IKVOn43Ksqlg/edit?usp=sharing)
+
 ## **Experiments**
 1. **Token Embedding Consistency Across Layers**:
    - Analyzed token embeddings across different layers of the transformer model.
